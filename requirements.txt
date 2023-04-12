@@ -4,6 +4,5 @@ django-autoslug
 django-ckeditor
 django-js-asset
 Pillow
-psycopg2
 sqlparse
 tzdata==2023.3
